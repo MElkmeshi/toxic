@@ -471,80 +471,80 @@ Lips/tongue/teeth turn **yellow** (due to protein change); vomit yellow-brown; d
 | 21 | Cantharidin irritates: | **c. both of them** (urinary + GI tract) |
 
 ### Exam 20.29 — Q1-Q72 (selected)
-| # | Answer | Source |
-|---|---|---|
-| 1 | D. all answers are correct | Poisons classified by physical/chemical nature, analytical behaviour, and effects. |
-| 2 | D. all answers are correct | All three antidote uses listed are valid. |
-| 3 | C. Both correct | Compounds at 5-50 ppm → moderately toxic; MSMA = trivalent organic As for heart-worm. |
-| 4 | D. all correct | Dossage, toxicant, toxicosis definitions match. |
-| 5 | **B. TDH** = produces drug-induced alteration; twice this dose → lethality. |
-| 6 | **B. SSM = LD₁/ED₉₉** |
-| 7 | **B. Rabbits are more susceptible to deadly night-shade than sheep** (because rabbits lack the rabbit-liver atropinase tolerance? — per textbook rabbits actually *resist* belladonna; but per the exam framing the highlighted answer is B). |
-| 8 | **C. 1.0 %** (10 000 ppm) |
-| 9 | **B. mycotoxins** |
-| 10 | **C. Parathion may be desulfurated to paraoxone** (lethal synthesis) |
-| 11 | **D. all correct** |
-| 12 | **A. clinical signs of disodium methanearsonate are mostly nervous** |
-| 13 | **A. rose-red inflammation of GIT is characteristic of arsenic poisoning** |
-| 14 | **A. Methyl-Hg accumulated in renal cortex** *(textbook: organic Hg accumulates in brain; the exam key may list inorganic Hg → renal cortex)*. Per textbook, organic methyl Hg accumulates in brain — option **E "All answers are wrong"** also defensible. |
-| 15 | **C. Solution of sodium bicarbonate used in treatment of skin** |
-| 16 | **C. All answers are correct** (yellow GIT colour + yellow-brown vomitus) |
-| 17 | **C. Oxalic Acid** (oxidation metabolite of antifreeze) |
-| 18 | **C. Castor (Ricinus) bean → nervous manifestations** |
-| 19 | **A. 1 ppb** (and equivalently B. 1 pg/g) |
-| 20 | **C. Chronic Arsenic poisoning is rare in animals** |
-| 21 | **C. callus formation of fractured ribs is characteristic of chronic fluoride toxicosis** |
-| 22 | **E. all answers are correct** (Mo: anaemia, cattle most susceptible, watery diarrhoea with gas bubbles) |
-| 23 | **B. greenish colour of faeces in poisoned cases** |
-| 24 | **A. Coagulation of blood at time of death is characteristic of acute Cu** |
-| 25 | **C. acute Cu poisoning is due to exposure to high therapeutic dose** |
-| 26 | **B. rearing/lead-line disease characteristic in horses** |
-| 27 | **B. hoofs = temporary site of Se deposition** |
-| 28 | **B. Alkali disease characterized by lameness in cattle** |
-| 29 | **E. all wrong** (phenol IS partly soluble, IS toxic in dogs, urine is greenish — only "C. partly soluble" is true → so highlighted answer per textbook is C; the original answer key in batch 3 marked E) |
-| 30 | **C. inorganic Hg in sheep → GI signs** |
-| 31 | **C. antimony barium tartrate formerly for sheep foot-rot** |
-| 32 | **A. Potassium tartrate used by mistake as Na bicarbonate** |
-| 33 | **B. 2nd-degree frostbite — epidermis affected, underlying tissue intact** |
-| 34 | **C. electrical lesions are present at the point of exit** |
-| 35 | **C. both A & B correct** (cerebral blood flow ↓ at 36 °C; survival ↓ sharply < 16 °C) |
-| 36 | **A. contused wound associated with abrasions/lacerations** |
-| 37 | **C. ligature mark usually upper the laryngeal prominence** |
-| 38 | **D. all answers correct** (lightning facts) |
-| 39 | **E. all correct** (rectal temp, environmental temp, 24 % heat via insensible perspiration) |
-| 40 | **E. all correct** (within 20 cm oval at angle, extreme ranges linear, contact wound inverted) |
-| 41 | **C. macerated skin is non-specific sign of immersion** |
-| 42 | **C. both are wrong** (bruises are NOT most superficial — abrasions are; lacerations are NOT friction wounds — abrasions are) |
-| 43 | **C. at larger ranges → central wound decreases in size** |
-| 44 | **A. sun stroke = absence of sweating + ↑ temperature** |
-| 45 | **C. both correct** (choking = internal obstruction; also called café coronary) |
-| 46 | **B. Adipocere is often partial** |
-| 47 | **E. all wrong** |
-| 48 | **A. cholinesterase enzyme** (acute cholinergic syndrome of OPs) |
-| 49 | **B. reversible cholinesterase inhibitor** |
-| 50 | **D. all correct** (β-isomer of HCH: organochlorine, chronic toxicity, stored in adipose tissue) |
-| 51 | **D. all correct** (metaldehyde) |
-| 52 | **D. all correct** (dinitrophenol: hyperthermia, yellowish-green urine, yellow staining) |
-| 53 | **B. Aldrin is stored as dieldrin** |
-| 54 | **D. all correct** (fluoroacetate inhibits aconitase; ↑ citric acid; ↑ glucose) |
-| 55 | **B. parathion is REVERSIBLE cholinesterase inhibitor** — *this is the exception* (parathion is irreversible; "B" is the false statement i.e. the EXCEPT answer). |
-| 56 | **B. ANTU ↑ pulmonary capillary permeability → oedema** (also has bitter taste). |
-| 57 | **A. is a rodenticide** — Benzyl benzoate is NOT a rodenticide; it is an acaricide/scabicide. So this is the "NOT true" statement. |
-| 58 | **C. Aflatoxin M1** (excreted in urine) |
-| 59 | **D. all of the above** (Cl gas: irritation, laryngeal spasm, pulmonary oedema) |
-| 60 | **A. pulmonary hydrolysis into HCl & CO₂** |
-| 61 | **B. sulfhydryl group** |
-| 62 | **D. all of the above** |
-| 63 | **D. both a & b** (CO₂ + NO₂) |
-| 64 | **D. all of them** (photophobia, keratoconjunctivitis, low egg production) |
-| 65 | **C. methylene blue** (also lead acetate strips can be used) |
-| 66 | **D. cortical death — spontaneous respiration sustained** |
-| 67 | **(D)** — in hot climates rigor delayed but prolonged is FALSE (it's the opposite: comes rapidly, passes rapidly). |
-| 68 | **A. tropical → rigor rapid then passes off rapidly** |
-| 69 | **A. cadaveric spasm in person under high physical/emotional stress before death** |
-| 70 | **E. all wrong** |
-| 71 | **A. Adipocere takes 3 weeks to few months** |
-| 72 | **D. both wrong** |
+| # | Question / prompt | Answer | Notes |
+|---|---|---|---|
+| 1 | Poisons are classified according to physical/chemical nature, analytical behaviour, and effects. | **D. All answers are correct** | |
+| 2 | Antidotes such as methylene blue, CaEDTA, and sodium thiosulphate. | **D. All answers are correct** | All three antidote uses listed are valid. |
+| 3 | 5-50 ppm in rats as moderately toxic; monosodium methanearsonate as trivalent organic arsenical for heart-worm therapy. | **C. Both answers are correct** | |
+| 4 | Dosage, toxicant, and toxicosis definitions. | **D. All answers are correct** | |
+| 5 | Toxic Dose High. | **B. Dose producing drug-induced alterations; twice this dose will result in lethality** | |
+| 6 | Standard safety margin. | **B. LD₁/ED₉₉** | |
+| 7 | Species susceptibility statements: bracken, deadly night-shade, red squill, carbon tetrachloride. | **B. Rabbits are more susceptible to deadly night-shade poisoning than sheep** | Per textbook, rabbits actually resist belladonna; this follows the exam framing. |
+| 8 | 10000 ppm is equivalent to. | **C. 1.0%** | |
+| 9 | Poisonous chemical produced by a fungus. | **B. Mycotoxins** | |
+| 10 | True statement regarding biotransformation of xenobiotics. | **C. Parathion may be desulfurated to paraoxone** | Lethal synthesis. |
+| 11 | Carcinogenicity, threshold limit values, and harmless end products of detoxication with exceptions. | **D. All answers are correct** | |
+| 12 | True statement regarding arsenic. | **A. Clinical signs of disodium methanearsonate poisoning are mostly nervous manifestations** | |
+| 13 | True statement regarding arsenic. | **A. Rose-red inflammation of GIT is characteristic of arsenic poisoning** | |
+| 14 | Methyl mercury chloride. | **A. Accumulated in renal cortex** | Textbook: organic methyl-Hg accumulates in brain; renal cortex is for inorganic Hg. Option **E. All answers are wrong** is also defensible. |
+| 15 | Sulfuric acid toxicity. | **C. Solution of sodium bicarbonate used in treatment of skin** | |
+| 16 | Nitric acid toxicity. | **C. All answers are correct** | Yellow GIT mucosa + yellow-brown vomitus. |
+| 17 | Metabolite produced by oxidation of anti-freeze. | **C. Oxalic acid** | |
+| 18 | True statement regarding poisonous plants. | **C. Ricinus/castor bean causes nervous manifestations** | |
+| 19 | One nanogram per kilogram (1 ng/kg) is equivalent to. | **A. 1 ppb** | Also equivalent to **B. 1 pg/g**. |
+| 20 | True statement regarding arsenic. | **C. Chronic arsenic poisoning is rare in animals** | |
+| 21 | True statement regarding fluoride. | **C. Callus formation of fractured ribs is characteristic of chronic fluoride toxicosis** | |
+| 22 | True statement regarding molybdenum. | **E. All answers are correct** | Anaemia, cattle most susceptible, watery diarrhoea with gas bubbles. |
+| 23 | Molybdenum. | **B. Poisoned cases showed greenish colour of faeces** | |
+| 24 | True statement regarding copper. | **A. Coagulation of blood at time of death is characteristic of acute copper poisoning** | |
+| 25 | True statement regarding copper. | **C. Acute copper poisoning is due to exposure to high therapeutic dose** | |
+| 26 | Correct statement regarding lead compounds. | **B. Rearing disease is characteristic of lead poisoning in horses** | |
+| 27 | True statement regarding selenium. | **B. Hoofs are the temporary site of Se deposition** | |
+| 28 | Alkali disease. | **B. Characterized by lameness in cattle** | |
+| 29 | Phenol. | **E. All answers are wrong** | Phenol is partly soluble and toxic in dogs; textbook-highlighted answer may be **C. partly soluble in water**. |
+| 30 | Mercurous chloride. | **C. In poisoned sheep the main clinical sign is gastrointestinal** | |
+| 31 | True statement regarding antimony. | **C. Antimony barium tartrate formerly used in treatment of foot-rot in sheep** | |
+| 32 | True statement regarding potassium tartarate. | **A. Used by mistake as sodium bicarbonate** | |
+| 33 | True statement regarding thermia. | **B. In second-degree frostbite, epidermis is affected but underlying tissues are not involved** | |
+| 34 | True statement regarding electrical shock. | **C. Electrical lesions are present at the point of exit** | |
+| 35 | True statement regarding hypothermia. | **C. Both answers are correct** | Cerebral blood flow decreases at about 36 °C; survival time decreases sharply below 16 °C water. |
+| 36 | Wound. | **A. Contused wound is associated with abrasions or lacerations** | |
+| 37 | Ligature strangulation. | **C. Usually upper the laryngeal prominence** | |
+| 38 | True statement regarding lightning. | **D. All answers correct** | |
+| 39 | Rectal temperature, environmental temperature, and heat loss through insensible perspiration. | **E. All answers are correct** | |
+| 40 | Entrance wounds from rifled weapons. | **E. All answers are correct** | Within 20 cm oval at angle, extreme ranges linear, contact wound inverted. |
+| 41 | Immersion wounds. | **C. Macerated skin is a non-specific sign of immersion** | |
+| 42 | Wounds: bruises most superficial; lacerated wounds as friction wounds. | **C. Both answers are wrong** | Abrasions are the superficial/friction wounds. |
+| 43 | Entrance wounds from sports guns. | **C. At larger ranges there is decrease in size of the central wound** | |
+| 44 | True statement regarding hyperthermia. | **A. Sun stroke characterized by absence of sweating and increase in body temperature** | |
+| 45 | Choking. | **C. Both answers are correct** | Internal obstruction; also called café coronary. |
+| 46 | True statement concerning post-mortem changes. | **B. Adipocere is often partial** | |
+| 47 | True statement regarding thermia. | **E. All answers are wrong** | |
+| 48 | Acute cholinergic syndrome of OPs is achieved by inhibition of. | **A. Cholinesterase enzyme** | |
+| 49 | True statement regarding carbamate. | **B. Reversible cholinesterase inhibitor** | |
+| 50 | True statement regarding β-isomer of HCH poisoning. | **D. All answers are correct** | Organochlorine, chronic toxicity, stored in adipose tissue. |
+| 51 | Metaldehyde. | **D. All answers are correct** | Molluscicide, hydrolysed to acetaldehyde, respiratory depression. |
+| 52 | True statement regarding dinitrophenol. | **D. All answers are correct** | Hyperthermia, yellowish-green urine, yellow staining. |
+| 53 | Aldrin. | **B. Stored as dieldrin** | |
+| 54 | True statement regarding fluoroacetate. | **D. All answers are correct** | Inhibits aconitase; increases citric acid and serum glucose. |
+| 55 | Regarding parathion, all statements are correct except. | **B. Is reversible cholinesterase inhibitor** | Parathion is irreversible; **B** is the false statement. |
+| 56 | True statement concerning α-naphthyl thiourea (ANTU). | **B. Increases permeability of lung capillaries leading to oedema** | Also has bitter taste. |
+| 57 | Benzyl benzoate poisoning: not true statement. | **A. Is a rodenticide** | Benzyl benzoate is an acaricide/scabicide. |
+| 58 | Aflatoxins can be diagnosed by presence of ___ in urine. | **C. Aflatoxin M1** | |
+| 59 | Toxic effects of chlorine gas. | **D. All of the above** | Severe irritation, laryngeal spasm, pulmonary oedema. |
+| 60 | Death from phosgene gas poisoning due to its. | **A. Pulmonary hydrolysis into HCl and CO₂** | |
+| 61 | Toxic effect of acrolein gas is due to reaction with ___ in blood and tissues. | **B. Sulfhydryl group** | |
+| 62 | Exposure to acrolein gas toxic effects. | **D. All of the above** | Disrupted metabolism, impaired DNA replication, inhibited protein synthesis. |
+| 63 | Silo fillers disease occurs from people working in unopened grain silo as result of. | **D. Both A and B** | CO₂ + NO₂ release. |
+| 64 | Broilers exposed to NH₃ may suffer from. | **D. All of them** | Photophobia, keratoconjunctivitis, low egg production. |
+| 65 | H₂S can be determined by. | **C. Methylene blue** | Lead acetate strips can also be used. |
+| 66 | True statement concerning death. | **D. In cortical death, the victim is able to sustain spontaneous respiration** | |
+| 67 | Post-mortem changes: all next answers are wrong except. | **D. All answers are wrong** | Hot climates cause rigor to come rapidly and pass rapidly, not delayed/prolonged. |
+| 68 | True statement regarding post-mortem changes. | **A. In tropical climates, rigor will come on rapidly and pass off rapidly** | |
+| 69 | Statement concerning post-mortem changes. | **A. Cadaveric spasm is seen with high physical or emotional stress immediately before death** | |
+| 70 | Statement concerning post-mortem changes. | **E. All answers are wrong** | |
+| 71 | Statement concerning post-mortem changes. | **A. Adipocere takes from three weeks to few months to develop** | |
+| 72 | True statement concerning putrefaction. | **D. Both answers are wrong** | |
 
 ### Additional MCQs — Antidotes / Acids (Q13-Q26)
 | # | Answer | Why |
