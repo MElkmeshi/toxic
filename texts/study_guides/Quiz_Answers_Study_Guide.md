@@ -471,152 +471,152 @@ Lips/tongue/teeth turn **yellow** (due to protein change); vomit yellow-brown; d
 | 21 | Cantharidin irritates: | **c. both of them** (urinary + GI tract) |
 
 ### Exam 20.29 — Q1-Q72 (selected)
-| # | Question / prompt | Answer |
-|---|---|---|
-| 1 | Poisons are classified according to: A. physical or chemical nature into volatile & non-volatile; B. analytical behaviour into nitrogenous & non-nitrogenous; C. effects into corrosive, irritants and narcotics. | **D. All answers are correct** |
-| 2 | Antidotes such as methylene blue, CaEDTA, and sodium thiosulphate. | **D. All answers are correct** |
-| 3 | 5-50 ppm in rats as moderately toxic; monosodium methanearsonate as trivalent organic arsenical for heart-worm therapy. | **C. Both answers are correct** |
-| 4 | Dosage, toxicant, and toxicosis definitions. | **D. All answers are correct** |
-| 5 | Toxic Dose High. | **B. Dose producing drug-induced alterations; twice this dose will result in lethality** |
-| 6 | Standard safety margin. | **B. LD₁/ED₉₉** |
-| 7 | Species susceptibility statements: bracken, deadly night-shade, red squill, carbon tetrachloride. | **B. Rabbits are more susceptible to deadly night-shade poisoning than sheep** |
-| 8 | 10000 ppm is equivalent to. | **C. 1.0%** |
-| 9 | Poisonous chemical produced by a fungus. | **B. Mycotoxins** |
-| 10 | True statement regarding biotransformation of xenobiotics. | **C. Parathion may be desulfurated to paraoxone** |
-| 11 | Carcinogenicity, threshold limit values, and harmless end products of detoxication with exceptions. | **D. All answers are correct** |
-| 12 | True statement regarding arsenic. | **A. Clinical signs of disodium methanearsonate poisoning are mostly nervous manifestations** |
-| 13 | True statement regarding arsenic. | **A. Rose-red inflammation of GIT is characteristic of arsenic poisoning** |
-| 14 | Methyl mercury chloride. | **A. Accumulated in renal cortex** |
-| 15 | Sulfuric acid toxicity. | **C. Solution of sodium bicarbonate used in treatment of skin** |
-| 16 | Nitric acid toxicity. | **C. All answers are correct** |
-| 17 | Metabolite produced by oxidation of anti-freeze. | **C. Oxalic acid** |
-| 18 | True statement regarding poisonous plants. | **C. Ricinus/castor bean causes nervous manifestations** |
-| 19 | One nanogram per kilogram (1 ng/kg) is equivalent to. | **A. 1 ppb** |
-| 20 | True statement regarding arsenic. | **C. Chronic arsenic poisoning is rare in animals** |
-| 21 | True statement regarding fluoride. | **C. Callus formation of fractured ribs is characteristic of chronic fluoride toxicosis** |
-| 22 | True statement regarding molybdenum. | **E. All answers are correct** |
-| 23 | Molybdenum. | **B. Poisoned cases showed greenish colour of faeces** |
-| 24 | True statement regarding copper. | **A. Coagulation of blood at time of death is characteristic of acute copper poisoning** |
-| 25 | True statement regarding copper. | **C. Acute copper poisoning is due to exposure to high therapeutic dose** |
-| 26 | Correct statement regarding lead compounds. | **B. Rearing disease is characteristic of lead poisoning in horses** |
-| 27 | True statement regarding selenium. | **B. Hoofs are the temporary site of Se deposition** |
-| 28 | Alkali disease. | **B. Characterized by lameness in cattle** |
-| 29 | Phenol. | **E. All answers are wrong** |
-| 30 | Mercurous chloride. | **C. In poisoned sheep the main clinical sign is gastrointestinal** |
-| 31 | True statement regarding antimony. | **C. Antimony barium tartrate formerly used in treatment of foot-rot in sheep** |
-| 32 | True statement regarding potassium tartarate. | **A. Used by mistake as sodium bicarbonate** |
-| 33 | True statement regarding thermia. | **B. In second-degree frostbite, epidermis is affected but underlying tissues are not involved** |
-| 34 | True statement regarding electrical shock. | **C. Electrical lesions are present at the point of exit** |
-| 35 | True statement regarding hypothermia. | **C. Both answers are correct** |
-| 36 | Wound. | **A. Contused wound is associated with abrasions or lacerations** |
-| 37 | Ligature strangulation. | **C. Usually upper the laryngeal prominence** |
-| 38 | True statement regarding lightning. | **D. All answers correct** |
-| 39 | Rectal temperature, environmental temperature, and heat loss through insensible perspiration. | **E. All answers are correct** |
-| 40 | Entrance wounds from rifled weapons. | **E. All answers are correct** |
-| 41 | Immersion wounds. | **C. Macerated skin is a non-specific sign of immersion** |
-| 42 | Wounds: bruises most superficial; lacerated wounds as friction wounds. | **C. Both answers are wrong** |
-| 43 | Entrance wounds from sports guns. | **C. At larger ranges there is decrease in size of the central wound** |
-| 44 | True statement regarding hyperthermia. | **A. Sun stroke characterized by absence of sweating and increase in body temperature** |
-| 45 | Choking. | **C. Both answers are correct** |
-| 46 | True statement concerning post-mortem changes. | **B. Adipocere is often partial** |
-| 47 | True statement regarding thermia. | **E. All answers are wrong** |
-| 48 | Acute cholinergic syndrome of OPs is achieved by inhibition of. | **A. Cholinesterase enzyme** |
-| 49 | True statement regarding carbamate. | **B. Reversible cholinesterase inhibitor** |
-| 50 | True statement regarding β-isomer of HCH poisoning. | **D. All answers are correct** |
-| 51 | Metaldehyde. | **D. All answers are correct** |
-| 52 | True statement regarding dinitrophenol. | **D. All answers are correct** |
-| 53 | Aldrin. | **B. Stored as dieldrin** |
-| 54 | True statement regarding fluoroacetate. | **D. All answers are correct** |
-| 55 | Regarding parathion, all statements are correct except. | **B. Is reversible cholinesterase inhibitor** |
-| 56 | True statement concerning α-naphthyl thiourea (ANTU). | **B. Increases permeability of lung capillaries leading to oedema** |
-| 57 | Benzyl benzoate poisoning: not true statement. | **A. Is a rodenticide** |
-| 58 | Aflatoxins can be diagnosed by presence of ___ in urine. | **C. Aflatoxin M1** |
-| 59 | Toxic effects of chlorine gas. | **D. All of the above** |
-| 60 | Death from phosgene gas poisoning due to its. | **A. Pulmonary hydrolysis into HCl and CO₂** |
-| 61 | Toxic effect of acrolein gas is due to reaction with ___ in blood and tissues. | **B. Sulfhydryl group** |
-| 62 | Exposure to acrolein gas toxic effects. | **D. All of the above** |
-| 63 | Silo fillers disease occurs from people working in unopened grain silo as result of. | **D. Both A and B** |
-| 64 | Broilers exposed to NH₃ may suffer from. | **D. All of them** |
-| 65 | H₂S can be determined by. | **C. Methylene blue** |
-| 66 | True statement concerning death. | **D. In cortical death, the victim is able to sustain spontaneous respiration** |
-| 67 | Post-mortem changes: all next answers are wrong except. | **D. All answers are wrong** |
-| 68 | True statement regarding post-mortem changes. | **A. In tropical climates, rigor will come on rapidly and pass off rapidly** |
-| 69 | Statement concerning post-mortem changes. | **A. Cadaveric spasm is seen with high physical or emotional stress immediately before death** |
-| 70 | Statement concerning post-mortem changes. | **E. All answers are wrong** |
-| 71 | Statement concerning post-mortem changes. | **A. Adipocere takes from three weeks to few months to develop** |
-| 72 | True statement concerning putrefaction. | **D. Both answers are wrong** |
+| # | Question / prompt | Options | Answer |
+|---|---|---|---|
+| 1 | Poisons are classified according to the: | A. physical or chemical nature into volatile & non-volatile; B. analytical behaviour into nitrogenous & non-nitrogenous; C. effects into corrosive, irritants and narcotics; D. All answers are correct; E. All answers are wrong | **D. All answers are correct** |
+| 2 | Antidotes such as: | A. Methylene blue used in treatment of cyanate poisoning; B. CaEDTA used in treatment lead poisoning; C. Sodium thiosulphate used in treatment of inorganic yellow phosphorus poisoning; D. All answers are correct; E. All answers are wrong | **D. All answers are correct** |
+| 3 | 5-50 ppm in rats as moderately toxic; monosodium methanearsonate as trivalent organic arsenical for heart-worm therapy. | A. Compounds that exposed to rats in level 5-50 ppm leading to 50% mortality rate classified as moderately toxic; B. Monosodium methanearsonate is one of trivalent organic arsenical compounds used for heart worm therapy in dogs; C. Both answers are correct; D. Both answers are wrong | **C. Both answers are correct** |
+| 4 | Dosage, toxicant, and toxicosis definitions. | A. Dosage is the total amount of toxicant received/animal; B. Toxicant refers to the amount of poison that under a specific set of condition will cause toxic effects; C. Toxicosis describes the disease state that results from exposure to a poison; D. All Answers are correct; E. All answers are wrong | **D. All answers are correct** |
+| 5 | Toxic Dose High: | A. Is the lowest dose to produce drug induced alteration and administering twice this dose will not result in lethality; B. Is the dose which will produce drug induce alterations and administering twice this dose will result in lethality; C. Is the lowest dose that cause drug induced death in animals during the period of observations; D. All answers are wrong | **B. Dose producing drug-induced alterations; twice this dose will result in lethality** |
+| 6 | Standard safety margin: | A. Is defined by the ratio of TI to SSD; B. Is defined by the ratio of the LD1 to the ED99; C. Is defined by the ratio of LD50 to the ED50; D. All answers are wrong | **B. LD₁/ED₉₉** |
+| 7 | Species susceptibility statements: bracken, deadly night-shade, red squill, carbon tetrachloride. | A. Mice are more susceptible to bracken poisoning than cattle; B. Rabbits are more susceptible to deadly night-shade poisoning than sheep; C. Female rats are resist to red squill than the male rats; D. The mode of action of carbon tetrachloride due to its inhibition of respiration of the cells; E. All answers are wrong | **B. Rabbits are more susceptible to deadly night-shade poisoning than sheep** |
+| 8 | 10000 ppm is equivalent to: | A. 10%; B. 0.1%; C. 1.0%; D. 100% | **C. 1.0%** |
+| 9 | The term that clearly defines a poisonous chemical produced by a fungus is: | A. endotoxins; B. mycotoxins; C. Toxicity; D. exotoxins; E. toxic | **B. Mycotoxins** |
+| 10 | Which of the following statement regarding biotransformation of xenobiotics is true? | A. Amphetamine may be reduced to paracetamol; B. Chlorpromazine may be hydroxylated to morphine; C. Parathion may be desulfurated to paraoxone; D. All answers are wrong | **C. Parathion may be desulfurated to paraoxone** |
+| 11 | Carcinogenicity, threshold limit values, and harmless end products of detoxication with exceptions. | A. Carcinogenicity ...; B. Threshold limit values ...; C. End product of xenobiotics detoxication is harmless metabolites with exception; D. All answers are correct | **D. All answers are correct** |
+| 12 | Which of the following statements regarding arsenic is true? | A. The clinical signs of disodium methanearsenic poisoning are mostly nervous manifestation; B. Paris green is also called arsenic sulphide; C. Potassium arsenite used as feed additive in poultry; D. The mortality rate is higher in case of arsenic acid than in sodium arsenate | **A. Clinical signs of disodium methanearsonate poisoning are mostly nervous manifestations** |
+| 13 | Which of the following statement regarding arsenic is true? | A. The rose-red inflammation of GIT is characteristic of arsenic poisoning; B. The sub-acute form of poisoned animals showed by subnormal temperature; C. The meat of chicken exposed to nitarsone may allow for human consumption after two weeks slaughtered of last exposure; D. All Answers are wrong; E. All answers are correct | **A. Rose-red inflammation of GIT is characteristic of arsenic poisoning** |
+| 14 | Methyl Mercury Chloride: | A. Is accumulated in the renal cortex; B. Is mainly excreted in the urine; C. Is rapidly metabolised to divalent mercury; D. In poisoned cattle, the main clinical sign is nephropathy; E. All answers are wrong | **A. Accumulated in renal cortex** |
+| 15 | In case of Sulfuric acid toxicity: | A. The colour of the mucous membrane become gray; B. Gastric lavage and emesis are unrelated in treatment; C. Solution of sodium bicarbonate used in treatment of skin; D. All Answers are wrong; E. All answers are correct | **C. Solution of sodium bicarbonate used in treatment of skin** |
+| 16 | In case of nitric acid toxicity: | A. m.m of the GIT color becomes yellow; B. Vomitus yellowish brown in colour; C. All answers are correct; D. All answers are wrong | **C. All answers are correct** |
+| 17 | Which of the following metabolites produced by oxidation of anti-freeze? | A. Cyanic Acid; B. Carbolic Acid; C. Oxalic Acid; D. Carbonic Acid; E. All answers are wrong | **C. Oxalic acid** |
+| 18 | Which of the following statements regarding poisonous plants is true? | A. The clinical signs of poisoned animals by ingestion seeds of Strychnos nux-vomica are mainly gastrointestinal; B. The clinical signs of poisoned animals by ingestion of Datura stramonium (Jimson Weed) are mainly respiratory diseases; C. The clinical signs of poisoned animals by chewing the bean of Ricinus (Castor Oil plant) are nervous manifestation; D. All answers are correct; E. All answers are wrong | **C. Ricinus/castor bean causes nervous manifestations** |
+| 19 | One nanogram per kilogram (1 ng/kg) is equivalent to: | A. 1 ppb; B. 1 pg/g; C. 1000 ppb; D. 0.001 ppb | **A. 1 ppb** |
+| 20 | Which of the following statements regarding arsenic is true? | A. Arsanilic Acid used as herbicide; B. Poisoning by As2O3 is mostly accidental mistaken for epson salts; C. Chronic Arsenic poisoning is rare in the animals; D. All answers are wrong; E. All answers are correct | **C. Chronic arsenic poisoning is rare in animals** |
+| 21 | Which of the following statements regarding Flouride is true? | A. signs of moving lameness is diagnostic in cases of subnormal flourosis; B. sodium flouride is the most toxic and calcium flouride is the least toxic; C. callus formation of fractured ribs, is characteristic of chronic form of flouride toxicosis; D. All Answers are wrong | **C. Callus formation of fractured ribs is characteristic of chronic fluoride toxicosis** |
+| 22 | Which of the following statement regarding molybdenum is true? | A. Anemia is one of the clinical signs of Mo toxicosis; B. Cattle are the most susceptible species to Mo toxicity; C. Poisoned animals, the clinical signs are watery diarrhea with full of gas bubbles; D. All answers are wrong; E. All answers are correct | **E. All answers are correct** |
+| 23 | Molybdenum: | A. toxicity leads to increase milk production; B. poisoned cases showed greenish colour of the faeces; C. poisoned animals, the main clinical signs are constipation; D. All answers are correct | **B. Poisoned cases showed greenish colour of faeces** |
+| 24 | Which of the following statement regarding copper is true? | A. Coagulation of blood at time of death is a characteristic feature of acute copper poisoning; B. Green colour of the faeces is characteristic of acute copper poisoning; C. is the main clinical sign of chronic copper poisoning; D. increase copper accumulation in the liver | **A. Coagulation of blood at time of death is characteristic of acute copper poisoning** |
+| 25 | Which of the following statements regarding copper is true? | A. copper arsenite is used as wood preservatives; B. copper chloride is used as a spray for fruit trees; C. acute form of copper poisoning is due to the exposure of animal to high therapeutic dose; D. copper sulphate is also known as paris green; E. All answers are correct | **C. Acute copper poisoning is due to exposure to high therapeutic dose** |
+| 26 | Which of the following statements regarding lead compounds is correct? | A. the electric form of lead poisoning is the most common type in cattle; B. rearing disease is the characteristic form of lead poisoning in horses; C. the clinical signs of lead poisoning are the same in all animal species; D. the basophilic stippling is prominant in all species, as its in dogs | **B. Rearing disease is characteristic of lead poisoning in horses** |
+| 27 | Which of the following statement regarding selenium is true? | A. sodium selenite is less toxic than selenomethionine; B. hoofs are the temporary site of deposition of Se compounds in the body; C. non-accumulator plants may contain Se 1/100 the concentration in the facultative plants; D. the common form of Se in the body is selenate; E. All answers are correct | **B. Hoofs are the temporary site of Se deposition** |
+| 28 | Alkali Disease: | A. caused by ingestion of obligate Se indicator plants; B. is characterized by lameness in cattle; C. is also known as acute form of Se poisoning; D. all answers are correct; E. All answers are wrong | **B. Characterized by lameness in cattle** |
+| 29 | Phenol: | A. poisoned animals are characterized by yellow color of the urine; B. is not toxic in dogs; C. is partly soluble in water; D. all answers are correct; E. all answers are wrong | **E. All answers are wrong** |
+| 30 | Mercurous Chloride: | A. is lipophilic and rapidly absorbed; B. accumulated in the brain; C. In poisoned sheep the main clinical sign is gastro-intestinal; D. all answers are wrong; E. all answers are correct | **C. In poisoned sheep the main clinical sign is gastrointestinal** |
+| 31 | Which of the following statements regarding antimony is true? | A. antimony trichloride used in poultry; B. antimony trisulphide disuse now in; C. antimony barium tartrate formerly used in treatment of foot-rot in sheep; D. all answers are correct; E. all answers are wrong | **C. Antimony barium tartrate formerly used in treatment of foot-rot in sheep** |
+| 32 | Which of the following statement regarding potassium tartarate is true? | A. used by mistaken as sodium bicarbonate; B. used as emetic; C. used as caustic in treatment in trypanosomiasis; D. all answers are correct | **A. Used by mistake as sodium bicarbonate** |
+| 33 | Which of the following statements regarding thermia is true? | A. In third degree of burning, the effects are on the whole thickness of epidermis and exposure of the dermis; B. In the second degree frost bite, the epidermis is affected but the underlying tissues are not involved; C. In water, it is usually a body will decompose half as fast as one in the air; D. all answers are correct; E. all answers are wrong | **B. In second-degree frostbite, epidermis is affected but underlying tissues are not involved** |
+| 34 | Which of the following statement regarding electrical shock is true? | A. the risk increase, by increasing the number of cycles of current per second; B. 100 ma is the upper limit of tolerance for man; C. electrical lesions are present at the point of the exit; D. all answers are correct; E. all answers are wrong | **C. Electrical lesions are present at the point of exit** |
+| 35 | Which of the following statement regarding hypothermia is true? | A. At about 36°C of the body temperature, cerebral blood flow decreased and oxygen consumption is sharply reduced; B. survival time in swimmers decrease sharply in water below 16°C; C. both answers are correct; D. both answers are wrong | **C. Both answers are correct** |
+| 36 | Wound: | A. such as contused wound is associated with abrasions or lacerations; B. such as grawed wound is usually the most dangerous type of injury; C. such as slashed wound where the depth is greater than the length; D. all answers are wrong; E. all answers are correct | **A. Contused wound is associated with abrasions or lacerations** |
+| 37 | Ligature strangulation: | A. by using the cord characterized by diffuse ligature mark; B. by using piece of cloths characterized by clear cut mark; C. is usually upper the laryngeal prominance; D. all answers are correct | **C. Usually upper the laryngeal prominence** |
+| 38 | Which of the following statement regarding lightning is true? | A. The incidence of atmosphere lightning leads to high mortality in human and animals in tropical countries; B. Because of hazards of secondary discharge inside the building, one should stay at least one meter away from electrical lines or switches; C. Death is inevitable due to exposure the animals to direct effects of lightning; D. All answers correct; E. All answers wrong | **D. All answers correct** |
+| 39 | Rectal temperature, environmental temperature, and heat loss through insensible perspiration. | A. rectal temperature is the mirror of the internal body temperature; B. Environmental temperature comes from the sun and affected by the degree of the air humidity; C. about 25% of the metabolic heat in temperate climate, is loosing through insensible perspiration; D. All answers wrong; E. All answers are correct | **E. All answers are correct** |
+| 40 | Entrance wounds from rifled weapons: | A. within 20 cm, there willbe oval hole when the discharge was at an angle to the surface; B. at extreme ranges, the bullet may leaving a linear wound; C. at a contact there will be inverted; D. all answers are wrong; E. all answers are correct | **E. All answers are correct** |
+| 41 | Immersion wounds: | A. not develops in bodies died from hypothermia if left for sufficient time in water; B. develops in bodies died from natural causes if left for sufficient time in water; C. such as macerated skin is non-specific signs of immersion; D. all answers are correct; E. all answers are wrong | **C. Macerated skin is a non-specific sign of immersion** |
+| 42 | Wounds: | A. such as bruises, are the most superficially type of injury; B. such as lacerated, are also called a friction wounds; C. both answers are wrong; D. both answers are correct | **C. Both answers are wrong** |
+| 43 | Entrance wounds from sports guns: | A. at near discharge, there will be denigaling smoke soiling; B. within in few centimeters of the surface will be muzzle mark; C. at larger ranges will be decrease in size of the central wound; D. all answers are wrong; E. all answers are correct | **C. At larger ranges there is decrease in size of the central wound** |
+| 44 | Which of the following statements regarding hyperthermia is true? | A. Sun stroke characterized by absence of sweating and an increase in body temperature; B. Febrile hyperthermia is due to extrinsic father than environmental causes; C. Charring cannot occur in cases of scalds, unless the liquid is very hot & the victim dressing clothes; D. heat cramps is one of the endogenous hyperthermia | **A. Sun stroke characterized by absence of sweating and increase in body temperature** |
+| 45 | Choking is: | A. usually applied to external obstruction of the upper air passages; B. also called café coronary; C. both answers are correct; D. both answers are wrong | **C. Both answers are correct** |
+| 46 | Which of the following statement concerning post-mortem changes is true: | A. The bone may remain in excellent condition for centuries in a well-arid place; B. Adipocere is often partial; C. Adipocere takes place in wet conditions only; D. all answers are correct; E. all answers are wrong | **B. Adipocere is often partial** |
+| 47 | Which of the following statements regarding thermia is true: | A. Cold edema occurs due to extension of kidney enzymes and peripheral vasoconstriction; B. First degree frost bites characterized by blister formation and s/c tissue necrosis; C. Drinking cold liquid decreases significantly body temperature; D. all answers are correct; E. all answers are wrong | **E. All answers are wrong** |
+| 48 | Acute cholinergic syndrome of OPs is being achieved by inhibition of: | A. cholinesterase enzyme; B. neurotoxic esterase; C. acentiase enzyme; D. all answers are wrong | **A. Cholinesterase enzyme** |
+| 49 | Which of the following regarding carbamate is true? | A. is an irreversible cholinesterase inhibitor; B. is a reversible cholinesterase inhibitor; C. cholinesterase reactivator is given for treatment of poisoned animals; D. all answers are correct | **B. Reversible cholinesterase inhibitor** |
+| 50 | Regarding B-isomer of HCH poisoning, which of the following statements is true? | A. is an organachlorine insecticide; B. is more likely to produce chronic toxicity; C. is more readily to stored in adipose tissue; D. all answers are correct | **D. All answers are correct** |
+| 51 | Metaldehyde: | A. is a molluscicide; B. is readily hydrolysed to acetaldehyde; C. poisoned animal is characterized by depression of the respiration; D. all answers are correct | **D. All answers are correct** |
+| 52 | Regarding dinitro phenol, which of the following statements is true? | A. poisoned animals showed hyperthermia; B. urine of poisoned animal is yellowish-green; C. cause persistent yellow dye-stuffs staining exposed skin; D. all answers are correct | **D. All answers are correct** |
+| 53 | Aldrin: | A. is one of the safest organochlorine molecules; B. is stored as dieldrin; C. the cutaneous toxicity of it is very low; D. all answers are correct | **B. Stored as dieldrin** |
+| 54 | Which of the following statement regarding flouroacetate is true? | A. inhibits aconitase enzyme necessary for TSA cycle; B. poisoned animals showed an increase the level of serum glucose; C. poisoned animals showed an increase the level of citic acid level; D. all answers are correct | **D. All answers are correct** |
+| 55 | Regarding parathion, all the following statements are correct except? | A. is converted to paraoxon; B. is reversible cholinesterase inhibitor; C. is excreted in urine as para nitro phenol; D. poisoned animals could be treated using PAM | **B. Is reversible cholinesterase inhibitor** |
+| 56 | Concerning a-napthyl thiourea, which of the following statement is true? | A. is used as a herbicide agent; B. increases permeability of lung capillaries leading to oedema; C. has bitter taste; D. all answers are correct | **B. Increases permeability of lung capillaries leading to oedema** |
+| 57 | Which of the following statement regarding Benzylebenzoate poisoning is not true? | A. is a rodenticide; B. is a nervous system depressant; C. cats are the most susceptible species; D. all answers are wrong | **A. Is a rodenticide** |
+| 58 | Aflatoxins can be diagnosed by presence of ______ in urine: | A. AFB1; B. AFB2; C. Aflatoxin M1; D. ATG1 | **C. Aflatoxin M1** |
+| 59 | Among toxic effects of chlorine gas is (are): | A. severe irritation of the nose & eye; B. laryngeal spasms; C. pulmonary edema; D. all of the above | **D. All of the above** |
+| 60 | Death from phosgene gas poisoning due to its ______: | A. pulmonary hydrolysis into HCL & CO2; B. renal hydrolysis into phosphoric acid; C. irritation to mucous membrane; D. none of the above | **A. Pulmonary hydrolysis into HCl and CO₂** |
+| 61 | The toxic effect of acrolein gas is due its reaction with ______ in the body blood and tissues: | A. Carbonyl Group; B. Sulfhydryl group; C. amino group; D. none of them | **B. Sulfhydryl group** |
+| 62 | Exposure to acrolein gas may lead to the following toxic effects: | A. disruption of intermediary metabolism; B. impairment of DNA replication; C. inhibition of protein synthesis; D. all of the above | **D. All of the above** |
+| 63 | Silo Fillers disease occurs in people working in unopened grain silo as a result of: | A. CO2 release; B. NO2 release; C. SO2 release; D. both a & b | **D. Both A and B** |
+| 64 | Broilers exposed to NH3 may suffer from: | A. photophobia; B. keratoconjuctivitis; C. low egg production; D. all of them | **D. All of them** |
+| 65 | H2S can be determined by: | A. lead acetate; B. silver cyanide; C. methylene blue; D. all of them | **C. Methylene blue** |
+| 66 | Which of the following statement concerning death is true? | A. Somatic cell death mean that the person is irreversibly conscious; B. The effect of a short period of hypoxia on some drugs leads to "whole brain death"; C. The effect of cerebral edema leads to "cortical brain death"; D. In the case of cortical death, the victim is able to sustain spontaneous respiration; E. all answers are correct | **D. In cortical death, the victim is able to sustain spontaneous respiration** |
+| 67 | Concerning post mortem changes, all next answers are wrong except: | A. In hot climates, post mortem rigidity delayed but prolonged; B. weak muscles delayed occurance of rigor mortis; C. old animals cooled more rapidly than young animals; D. all answers are wrong; E. congestive heart failure increase post-mortem lividity | **D. All answers are wrong** |
+| 68 | Which of the following statement regarding post-mortem changes is true? | A. In tropical climates, rigor will come on rapidly and pass off rapidly; B. rigor mortis occurs first in the limbs followed by eye lids; C. anaemia increase post-mortem lividity; D. all answers correct; E. all answers are wrong | **A. In tropical climates, rigor will come on rapidly and pass off rapidly** |
+| 69 | Which of the following statement concerning post-mortem changes: | A. Cadaveric spasm is seen in person who is at a high level of physical or emotional stress immediately before death; B. if the cadaver feels warm & stiff it has been dead 8-36 hours; C. as the time of death increased the rate of cadaver cooling increased; D. all answers are correct; E. all answers are wrong | **A. Cadaveric spasm is seen with high physical or emotional stress immediately before death** |
+| 70 | Which of the following statement concerning post-mortem changes: | A. After three days of death, the whole skin peels off; B. exhausted muscle before death delayed occurence of rigor mortis; C. even if the body mummified completely, the putrefaction will occure; D. all answers are wrong; E. all answers are wrong | **E. All answers are wrong** |
+| 71 | Which of the following statement concerning post mortem changes: | A. Adipocere takes from three weeks to few months to develop; B. Ante-mortem haemorrhage decreases putrefaction process; C. heat rigor occured in cadavers died in cold temperature; D. all answers are correct; E. all answers are wrong | **A. Adipocere takes from three weeks to few months to develop** |
+| 72 | Which of the following statement concerning putrefaction is true? | A. putrefaction starts after eight hours of dead bodies in summer time; B. putrefaction in water at least 4 times as fast as one buried in the ground; C. both answers are correct; D. both answers are wrong | **D. Both answers are wrong** |
 
 ### Additional MCQs — Antidotes / Acids (Q13-Q26)
-| # | Question / prompt | Answer |
-|---|---|---|
-| 13 | Charcoal is one of ........... antidotes. | **a. Adsorbent** |
-| 14 | Methylene blue in nitrite poisoning is an example for. | **d. Reducing antidotes** |
-| 15 | Ca-EDTA is a chelating antidote that is useful in treatment of. | **a. Lead** |
-| 16 | D-penicillamine is a chelating antidote useful in treatment of toxicity. | **a. Copper** |
-| 17 | Caster oil is the main component in .......... plant. | **b. *Ricinus communis*** |
-| 18 | Phytotoxin(s) present in caster oil may include. | **c. Both of them** |
-| 21 | The characteristic smell of bitter almond is detected in. | **a. HCN poisoning** |
-| 22 | Methylene blue is given for treatment of ......... poisoning. | **a. Nitrate** |
-| 23 | Blood urea nitrogen level is increased of ......... poisoning. | **c. Nitric acid** |
-| 24 | Tongue is swollen and covered with white coating in ......... toxicity. | **b. Sulphuric acid** |
-| 25 | Presence of envelope-like shaped crystals under microscope indicates poisoning with. | **c. Oxalic acid** |
-| 26 | Severe and immediate vomition occur in toxicity with the following agents except. | **b. Carbolic acid (phenol)** |
+| # | Question / prompt | Options | Answer |
+|---|---|---|---|
+| 13 | Charcoal is one of ........... antidotes: | A. Adsorbent; B. Coater; C. Entangler; D. Diluent | **a. Adsorbent** |
+| 14 | Methylene blue in nitrite poisoning is an example for: | A. precipitating antidotes; B. physical antidotes; C. oxidizing antidotes; D. reducing antidotes | **d. Reducing antidotes** |
+| 15 | Ca-EDTA is a chelating antidote that is useful in treatment of: | A. lead; B. nickel; C. both a & b; D. None of the above | **a. Lead** |
+| 16 | D-penicillamine is a chelating antidote useful in treatment of toxicity: | A. copper; B. phosphorous; C. cyanide; D. None of the above | **a. Copper** |
+| 17 | Caster oil is the main component in .......... plant: | A. Nerium oleander; B. Ricinus communis; C. Citrullus colocynthis | **b. *Ricinus communis*** |
+| 18 | Phytotoxin(s) present in caster oil may include: | A. Ricin; B. Ricinoleic acid; C. both of them --- | **c. Both of them** |
+| 21 | The characteristic smell of bitter almond is detected in: | A. HCN poisoning; B. phenol intoxication; C. oxalate poisoning | **a. HCN poisoning** |
+| 22 | Methylene blue is given for treatment of ......... poisoning: | A. nitrate; B. phosphorus; C. cyanide | **a. Nitrate** |
+| 23 | Blood urea nitrogen level is increased of ......... poisoning: | A. oxalic acid; B. sulphuric acid; C. nitric acid | **c. Nitric acid** |
+| 24 | Tongue is swollen and covered with white coating in ......... toxicity: | A. oxalic acid; B. sulphuric acid; C. nitric acid | **b. Sulphuric acid** |
+| 25 | Presence of envelope-like shaped crystals under microscope indicates | A. carbolic acid; B. sulphuric acid; C. oxalic acid | **c. Oxalic acid** |
+| 26 | Sever and immediate vomition occur in toxicity with the following | A. sodium hydroxide; B. carbolic acid; C. nitric acid ############################################################## | **b. Carbolic acid (phenol)** |
 
 ### Pesticides / Rodenticides MCQ (1-14)
-| # | Question / prompt | Answer |
-|---|---|---|
-| 1 | Phenoxy derivatives of fatty acids. | **D. All of the above** |
-| 2 | The teratogenicity of 2,4,5-T is mainly due to. | **A. TCDD contamination** |
-| 3 | Dinitro compounds are characterized by. | **D. All of the above** |
-| 4 | Chlorates cause toxicity mainly by. | **A. Converting hemoglobin to methemoglobin** |
-| 5 | Paraquat poisoning is characterized by. | **C. Delayed pulmonary fibrosis** |
-| 6 | Alpha-naphthyl thiourea (ANTU) causes death mainly by. | **D. Pulmonary edema** |
-| 7 | ANTU protects dogs from poisoning because it. | **C. Causes strong vomiting** |
-| 8 | Fluoroacetate toxicity occurs because it. | **C. Both answers are correct** |
-| 9 | Fluoroacetate mainly blocks which metabolic cycle? | **C. TCA cycle** |
-| 10 | Zinc phosphide becomes toxic because it. | **C. Produces phosphine gas in the stomach** |
-| 11 | The main cause of death in zinc phosphide poisoning is. | **D. Respiratory arrest** |
-| 12 | Anticoagulant rodenticides act by. | **C. Antagonizing vitamin K** |
-| 13 | Warfarin poisoning usually occurs after. | **C. Repeated ingestion over days** |
-| 14 | Norbromide acts mainly by. | **C. Irreversible vasoconstriction** |
+| # | Question / prompt | Options | Answer |
+|---|---|---|---|
+| 1 | Phenoxy derivatives of fatty acids: | A. Act as plant growth regulators; B. Are selective in action; C. Are short-chain fatty acids with a phenoxy ring; D. All of the above ← highlighted | **D. All of the above** |
+| 2 | The teratogenicity of 2,4,5-T is mainly due to: | A. TCDD contamination ← highlighted; B. High lipid solubility; C. Its defoliant use; D. None of the above | **A. TCDD contamination** |
+| 3 | Dinitro compounds are characterized by: | A. Yellow staining of skin and hair; B. Increased metabolic rate; C. Yellow-green urine; D. All of the above ← highlighted | **D. All of the above** |
+| 4 | Chlorates cause toxicity mainly by: | A. Converting hemoglobin to methemoglobin; B. Causing diarrhea due to irritation; C. Producing dyspnea and cyanosis; D. All of the above ← highlighted | **A. Converting hemoglobin to methemoglobin** |
+| 5 | Paraquat poisoning is characterized by: | A. responsible for fatal cases in animals.; B. cause cataracts; C. Delayed pulmonary fibrosis ← highlighted; D. is a rodenticide; E. All of the above | **C. Delayed pulmonary fibrosis** |
+| 6 | Alpha-naphthyl thiourea (ANTU) causes death mainly by: | A. Liver failure; B. Kidney necrosis; C. Blocking vitamin K; D. Pulmonary edema ← highlighted; E. Cardiac arrest | **D. Pulmonary edema** |
+| 7 | ANTU protects dogs from poisoning because it: | A. Is rapidly metabolized; B. Has a bitter taste; C. Causes strong vomiting ← highlighted; D. Is insoluble in fat; E. Has no central action | **C. Causes strong vomiting** |
+| 8 | Fluoroacetate toxicity occurs because it: | A. Inhibits aconitase enzyme; B. Forms fluorocitrate; C. both answers are correct ← highlighted; D. both answers are wrong | **C. Both answers are correct** |
+| 9 | Fluoroacetate mainly blocks which metabolic cycle? | A. Glycolysis; B. Urea cycle; C. TCA cycle ← highlighted; D. Pentose pathway | **C. TCA cycle** |
+| 10 | Zinc phosphide becomes toxic because it: | A. Releases cyanide gas; B. Blocks vitamin K; C. Produces phosphine gas in the stomach ← highlighted; D. Causes severe diarrhea only | **C. Produces phosphine gas in the stomach** |
+| 11 | The main cause of death in zinc phosphide poisoning is: | A. Renal failure; B. Hepatic failure; C. Cardiac arrest; D. Respiratory arrest ← highlighted; E. Internal hemorrhage | **D. Respiratory arrest** |
+| 12 | Anticoagulant rodenticides act by: | A. Destroying platelets; B. Blocking calcium absorption; C. Antagonizing vitamin K ← highlighted; D. Causing vasoconstriction; E. Inhibiting cytochrome oxidase | **C. Antagonizing vitamin K** |
+| 13 | Warfarin poisoning usually occurs after: | A. One small dose; B. Skin exposure; C. Repeated ingestion over days ← highlighted; D. All answers are correct | **C. Repeated ingestion over days** |
+| 14 | Norbromide acts mainly by: | A. Inhibiting clotting factors; B. Causing CNS convulsions; C. Irreversible vasoconstriction ← highlighted; D. Blocking TCA cycle — Good luck — ============================================================== END OF DOCUMENT ============================================================== | **C. Irreversible vasoconstriction** |
 
 ### Organochlorines MCQ (Q11-20)
-| # | Question / prompt | Answer |
-|---|---|---|
-| 11 | Which statement regarding inhalation exposure to organochlorines is correct? | **C. It is uncommon due to low volatility** |
-| 12 | Fasting increases organochlorine toxicity because. | **C. Release of insecticide from fat depots** |
-| 13 | DDT-type organochlorines exert toxicity mainly by. | **C. Altering sodium and potassium ion movement** |
-| 14 | Mirex produces toxicity partly by. | **B. Inhibiting postsynaptic GABA binding** |
-| 15 | The main source of DDT exposure in the general population is. | **C. Food, especially animal fat** |
-| 16 | Biomagnification of DDT is best demonstrated by. | **C. Increasing concentration on the food chain** |
-| 17 | Lindane is composed of. | **C. γ-HCH** |
-| 18 | Which HCH isomer is responsible for chronic toxicity due to fat storage? | **B. β-isomer** |
-| 20 | The most common clinical manifestation of acute organochlorine poisoning is. | **C. Neurologic hyper-excitability** |
+| # | Question / prompt | Options | Answer |
+|---|---|---|---|
+| 11 | Which statement regarding inhalation exposure to organochlorines | A. It is the main route of exposure; B. It is enhanced due to high volatility; C. It is uncommon due to low volatility ← highlighted; D. It causes immediate toxicity | **C. It is uncommon due to low volatility** |
+| 12 | Fasting increases organochlorine toxicity because: | A. Increased absorption from gut; B. Reduced renal excretion; C. Release of insecticide from fat depots ← highlighted; D. Increased brain storage | **C. Release of insecticide from fat depots** |
+| 13 | DDT-type organochlorines exert toxicity mainly by: | A. Inhibiting acetylcholinesterase; B. Blocking calcium channels; C. Altering sodium and potassium ion movement ← highlighted; D. Inhibiting GABA receptors | **C. Altering sodium and potassium ion movement** |
+| 14 | Mirex produces toxicity partly by: [annotated "Aldrin" beside] | A. Enhancing GABA binding; B. Inhibiting postsynaptic GABA binding ← highlighted; C. Blocking sodium channels; D. Inhibiting cholinesterase | **B. Inhibiting postsynaptic GABA binding** |
+| 15 | The main source of DDT exposure in the general population is: | A. Drinking water; B. Air inhalation; C. Food, especially animal fat ← highlighted; D. Dermal contact | **C. Food, especially animal fat** |
+| 16 | Biomagnification of DDT is best demonstrated by: | A. Rapid urinary excretion; B. Low tissue storage; C. Increasing concentration on the food chain ← highlighted; D. Decreased toxicity in predators | **C. Increasing concentration on the food chain** |
+| 17 | Lindane is composed of: | A. β-HCH B. α-HCH C. γ-HCH ← highlighted D. Mixed isomers | **C. γ-HCH** |
+| 18 | Which HCH isomer is responsible for chronic toxicity due to fat storage? | A. α-isomer B. β-isomer ← highlighted C. γ-isomer D. δ-isomer 19- [no question shown] | **B. β-isomer** |
+| 20 | The most common clinical manifestation of acute organochlorine | A. Respiratory depression; B. Hepatic failure; C. Neurologic hyper excitability ← highlighted; D. Renal failure ############################################################## | **C. Neurologic hyper-excitability** |
 
 ### Heavy Metals fragment (Q5-Q6)
-| # | Question / prompt | Answer |
-|---|---|---|
-| 5 | Which of the following statement regarding lead compounds is true? | **C. Lead sulphate is the most important source of lead to animals** |
-| 6 | Which of the following statement regarding arsenic trioxide is true? | **(d) All answers are correct** |
+| # | Question / prompt | Options | Answer |
+|---|---|---|---|
+| 5 | Which of the following statement regarding lead compounds is true? | A. more than 80% of the ingested lead is absorbed from the GIT.; B. lead chromate is also known as sugar of lead.; C. lead sulphate is the most important source of lead to animals.; D. All answers are correct. | **C. Lead sulphate is the most important source of lead to animals** |
+| 6 | Which of the following statement regarding arsenic trioxide is true? | A. is a crystalline odourless substance.; B. is insoluble, tastless, and volatile on heating.; C. is more toxic than arsenate compounds.; D. all answers are correct.; E. all answers are wrong. ############################################################## | **(d) All answers are correct** |
 
 ### Mycotoxins MCQ (Q26-Q30)
-| # | Question / prompt | Answer |
-|---|---|---|
-| 26 | Aflatoxins are mycotoxins that occur most commonly in. | **a. Warm humid regions** |
-| 27 | Trichothecenes are mycotoxins that occur most commonly in. | **b. Cold regions** |
-| 28 | A common nephrotoxic mycotoxin is. | **b. Ochratoxins** |
-| 29 | Control of mycotoxins in feeds can use. | **c. Any of them** |
-| 30 | Heat-stable enterotoxin in food poisoning is produced by. | **a. *Staphylococcus aureus*** |
+| # | Question / prompt | Options | Answer |
+|---|---|---|---|
+| 26 | Aflatoxins are mycotoxins that occur most commonly in: | A. warm humid regions; B. cold region | **a. Warm humid regions** |
+| 27 | Trichothecenes are mycotoxins that occur most commonly in: | A. warm humid regions; B. cold regions | **b. Cold regions** |
+| 28 | Nephrotoxic mycotoxins can be exemplified by: | A. aflatoxins; B. ochratoxins; C. penitrem A; D. trichot[hecenes] | **b. Ochratoxins** |
+| 29 | Food poisoning cases may follow ingestion of foods containing: | A. microbial toxins; B. chemical additives; C. any of them | **c. Any of them** |
+| 30 | Heat-stable toxin can be produced in food by its contamination with: | A. Staph aureus; B. Clostridium botulinum; C. Salmonella spp ############################################################## | **a. *Staphylococcus aureus*** |
 
 ### Second Test 5/1/2026 Q1-Q6
-| # | Question / prompt | Answer |
-|---|---|---|
-| 1 | Methyl mercury chloride. | **A. Is accumulated in renal cortex** |
-| 2 | Which of the following statement regarding Molybdenum is true? | **E. All answers are correct** |
-| 3 | Which of the following statement regarding Copper is true? | **E. All answers are correct** |
-| 4 | Which of the following statement regarding lead compounds is true? | **D. All answers are correct** |
-| 5 | Beta-particles. | **D. All answers are wrong** |
-| 6 | Which of the following statement regarding arsenic trioxide is true? | **E. All answers are wrong** |
+| # | Question / prompt | Options | Answer |
+|---|---|---|---|
+| 1 | Methyl mercury chloride: | A. is accumulated in renal cortex.; B. is mainly excreted in the urine.; C. is rapidly metabolized to divalent mercury.; D. in poisoned cattle, the main clinical sign is nephropathy.; E. All answers are wrong. | **A. Is accumulated in renal cortex** |
+| 2 | Which of the following statement regarding Molybdenum is true? | A. anaemia is one of the clinical signs of Mo toxicosis.; B. cattle are the most susceptible species to Mo toxicity.; C. Poisoned animals, the clinical signs are watery diarrhea with full of gas bubbles.; D. all answers are wrong.; E. all answers are correct. | **E. All answers are correct** |
+| 3 | Which of the following statement regarding Copper is true? | A. copper arsenite is used as wood preservatives.; B. copper chloride is used as a spray for fruit trees.; C. acute form of copper poisoning is due to the exposure of animal to high therapeutic dose.; D. copper sulphate is also known as paris green.; E. all answers are correct. | **E. All answers are correct** |
+| 4 | Which of the following statement regarding lead compounds is true? | A. more than 80% of the ingested lead is absorbed from the GIT.; B. lead chromate is also known as sugar of lead.; C. lead sulphate is the most important source of lead to animals.; D. All answers are correct. | **D. All answers are correct** |
+| 5 | Beta-particles: | A. are heavier than α-particles.; B. easily penetrate the skin.; C. energy is dissipated in less than 0.1 mm.; D. All answers are wrong. | **D. All answers are wrong** |
+| 6 | Which of the following statement regarding arsenic trioxide is true? | A. is a crystalline odourless substance.; B. is insoluble, tastless, and volatile on heating.; C. is more toxic than arsenate compounds.; D. all answers are correct.; E. all answers are wrong. ############################################################## | **E. All answers are wrong** |
 
 ---
 
